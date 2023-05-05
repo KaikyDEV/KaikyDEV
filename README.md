@@ -1,4 +1,4 @@
-### Olá! Eu sou o Kaiky. Esses são as tecnologias que desenvolvo no momento.
+### Olá! Eu sou o Kaiky. Essas são as tecnologias que desenvolvo no momento.
 
 [![Design](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com)
 [![Skills](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.devmedia.com.br/guia/linguagem-csharp/38152#:~:text=C%23%20é%20uma%20linguagem%20de,a%20programação%20Orientada%20a%20Objetos.)

@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=false&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Kaiky+Santos;Tenho+19+anos;Sou+de+Atibaia+-+SP;Curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-vindo+Ao+Meu+Perfil!)](https://git.io/typing-svg)
 
-💻 Gosta de muito de Tecnologia e código!
+💻 Gosta muito de Tecnologia e código!
 <br>
 🤯 Proatividade a mil!!!
 <br>
